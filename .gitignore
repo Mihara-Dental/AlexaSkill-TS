@@ -1,0 +1,6 @@
+lambda/node_modules
+.ask/
+ask-resources.json
+
+# JetBrains IDE
+.idea/
